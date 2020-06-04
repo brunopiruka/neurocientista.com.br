@@ -7,28 +7,23 @@
 # Bruno Santos Souza
 <sub>*Idealizador* da Escola de Neurociências</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Apaixonado pelas ciências desde que se entende por gente. Até hoje uma "criança" curiosa, apesar de ter caminhado pela química e um meio mestrado em engenharia, foram as Neurociências que arrebataram esse coração! Pós-Graduado em Neuropsicologia Interdisciplinar. Inciando a jornada em Deep Learning, enquanto corre atrás de 3 crianças.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Bacharel em Química pela UNESP-Araraquara │ Pós-graduado em Neuropsicologia Interdisciplinar │ Pai de 3
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Interesses:** Python, Deep Learning, Cognitive Neuroscience e Natural Processing Language
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [Site](http://www.neuropsicologia.com.br)
+* [LinkedIn](https://www.linkedin.com/in/brunopiruka)
+* [Instagram](https://www.instagram.com/100_neura)
+* [YouTube](https://www.youtube.com/100neura)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Projetos Atuais:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Neuropsicologia Sem Neura:** http://www.neuropsicologia.com.br
 
 ---
 
