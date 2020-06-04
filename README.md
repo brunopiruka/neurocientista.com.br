@@ -9,7 +9,7 @@
 
 Apaixonado pelas ciências desde que se entende por gente. Até hoje uma "criança" curiosa, apesar de ter caminhado pela química e um meio mestrado em engenharia, foram as Neurociências que arrebataram esse coração! Pós-Graduado em Neuropsicologia Interdisciplinar. Inciando a jornada em Deep Learning, enquanto corre atrás de 3 crianças.
 
-Bacharel em Química pela UNESP-Araraquara │ Pós-graduado em Neuropsicologia Interdisciplinar │ Pai de 3
+##### **Bacharel em Química pela UNESP-Araraquara │ Pós-graduado em Neuropsicologia Interdisciplinar │ Pai de 3**
 
 **Interesses:** Python, Deep Learning, Cognitive Neuroscience e Natural Processing Language
 
