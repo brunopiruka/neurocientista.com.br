@@ -24,6 +24,7 @@ Apaixonado pelas ciências desde que se entende por gente. Até hoje uma "crian�
 Projetos Atuais:
 
 * **Neuropsicologia Sem Neura:** http://www.neuropsicologia.com.br
+* **Análise de Dados do AirBnb em São Francisco - CA** - http://abre.ai/bcJH
 
 ---
 
