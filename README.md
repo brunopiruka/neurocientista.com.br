@@ -5,7 +5,7 @@
 </p>
 
 # Bruno Santos Souza
-<sub>*Idealizador* do Site neurocientista.com.br(https://www.neurocientista.com.br</sub>
+<sub>*Idealizador* do Site [neurocientista.com.br](https://www.neurocientista.com.br)</sub>
 
 Apaixonado pelas ciências desde que se entende por gente. Até hoje uma "criança" curiosa, apesar de ter caminhado pela química e um meio mestrado em engenharia, foram as Neurociências que arrebataram esse coração! Pós-Graduado em Neuropsicologia Interdisciplinar. Inciando a jornada em Deep Learning, enquanto corre atrás de 3 crianças.
 
