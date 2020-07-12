@@ -28,7 +28,7 @@ Projetos Atuais:
 * **Análise da Violência na cidade do Rio de Janeiro** - http://abre.ai/bhbo
 * **Análise da Evolução da COVID-19 no Brasil** - http://abre.ai/biC4
 * **Modelo para Detecção de Fraude Financeira** - http://abre.ai/bjDX
-
+* **Previsão de Evasão de Clientes (Churn Rate)** - http://abre.ai/bkf5
 ---
 
 
